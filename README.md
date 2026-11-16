@@ -18,4 +18,4 @@ I did my MS in Computer Science (AI specialization) at UC San Diego.
 
 I'm always happy to talk about AI for climate, health or social impact, so feel free to reach out.
 
-🌐 [Website](https://sukhadaghewari.github.io/) | 🔗 [LinkedIn](LINKEDIN_URL)
+🌐 [Website](https://sukhadaghewari.github.io/) | 🔗 [LinkedIn](https://www.linkedin.com/in/sukhada-ghewari/)
